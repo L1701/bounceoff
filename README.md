@@ -1,2 +1,2 @@
-# bounceoff
-bounce off for moving &amp; fixed Rect
+# p5.play-boilerplate
+Boiler plate for p5.play
